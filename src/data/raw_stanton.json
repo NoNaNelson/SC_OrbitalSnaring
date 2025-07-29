@@ -1,0 +1,2628 @@
+{
+    "name": "Stanton",
+    "range": 50000000000.0,
+    "resolve_nested": true,
+    "structured": [
+        {
+            "type": "Star",
+            "name": "Stanton",
+            "designation": "Stanton",
+            "grid_range": 0.0,
+            "om_range": 0.0,
+            "min_qt_range": 0.0,
+            "dropout_distance": 0.0,
+            "rotation_speed": 0.0,
+            "commrange": 0.0,
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "rotation": {
+                "w": 1.0,
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "objects": [
+                {
+                    "type": "Planet",
+                    "name": "Hurston",
+                    "designation": "Stanton1",
+                    "grid_range": 2000000.0,
+                    "om_range": 1436000.0,
+                    "min_qt_range": 1008900.0,
+                    "dropout_distance": 1050000.0,
+                    "rotation_speed": 2.48,
+                    "commrange": 0.0,
+                    "x": 12850457093.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "rotation": {
+                        "w": 1.0,
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "objects": [
+                        {
+                            "type": "Station",
+                            "name": "Everus Harbor",
+                            "designation": "",
+                            "grid_range": 0.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 0.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 0.0,
+                            "altitude": 1036363.9542795953,
+                            "objects": [],
+                            "belts": []
+                        },
+                        {
+                            "type": "CommArray",
+                            "name": "CommArray",
+                            "designation": "",
+                            "grid_range": 0.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 0.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 20250000.0,
+                            "altitude": 1200000.266917024,
+                            "objects": [],
+                            "belts": []
+                        },
+                        {
+                            "type": "Moon",
+                            "name": "Arial",
+                            "designation": "Stanton_1a",
+                            "grid_range": 689000.0,
+                            "om_range": 501500.0,
+                            "min_qt_range": 348500.0,
+                            "dropout_distance": 511725.0,
+                            "rotation_speed": 5.5100002,
+                            "commrange": 0.0,
+                            "x": 42216215.86082077,
+                            "y": -31476128.840109,
+                            "z": 0.0,
+                            "rotation": {
+                                "w": 1.0,
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            },
+                            "objects": [
+                                {
+                                    "type": "CommArray",
+                                    "name": "CommArray",
+                                    "designation": "",
+                                    "grid_range": 0.0,
+                                    "om_range": 0.0,
+                                    "min_qt_range": 0.0,
+                                    "dropout_distance": 0.0,
+                                    "rotation_speed": 0.0,
+                                    "commrange": 20250000.0,
+                                    "altitude": 511725.08254591137,
+                                    "objects": [],
+                                    "belts": []
+                                }
+                            ],
+                            "belts": []
+                        },
+                        {
+                            "type": "Moon",
+                            "name": "Aberdeen",
+                            "designation": "Stanton_1b",
+                            "grid_range": 548000.0,
+                            "om_range": 402700.0,
+                            "min_qt_range": 278000.0,
+                            "dropout_distance": 437700.0,
+                            "rotation_speed": 2.5999999,
+                            "commrange": 0.0,
+                            "x": 55300543.43100166,
+                            "y": 40955550.560376,
+                            "z": 0.0,
+                            "rotation": {
+                                "w": 1.0,
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            },
+                            "objects": [
+                                {
+                                    "type": "CommArray",
+                                    "name": "CommArray",
+                                    "designation": "",
+                                    "grid_range": 0.0,
+                                    "om_range": 0.0,
+                                    "min_qt_range": 0.0,
+                                    "dropout_distance": 0.0,
+                                    "rotation_speed": 0.0,
+                                    "commrange": 20250000.0,
+                                    "altitude": 437700.023031468,
+                                    "objects": [],
+                                    "belts": []
+                                }
+                            ],
+                            "belts": []
+                        },
+                        {
+                            "type": "Moon",
+                            "name": "Magda",
+                            "designation": "Stanton_1c",
+                            "grid_range": 681666.0,
+                            "om_range": 494780.0,
+                            "min_qt_range": 344830.0,
+                            "dropout_distance": 507874.6875,
+                            "rotation_speed": 1.9400001,
+                            "commrange": 0.0,
+                            "x": -57770733.58171463,
+                            "y": -74464580.982047,
+                            "z": 0.0,
+                            "rotation": {
+                                "w": 1.0,
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            },
+                            "objects": [
+                                {
+                                    "type": "CommArray",
+                                    "name": "CommArray",
+                                    "designation": "",
+                                    "grid_range": 0.0,
+                                    "om_range": 0.0,
+                                    "min_qt_range": 0.0,
+                                    "dropout_distance": 0.0,
+                                    "rotation_speed": 0.0,
+                                    "commrange": 20250000.0,
+                                    "altitude": 507874.66093405697,
+                                    "objects": [],
+                                    "belts": []
+                                }
+                            ],
+                            "belts": []
+                        },
+                        {
+                            "type": "Moon",
+                            "name": "Ita",
+                            "designation": "Stanton_1d",
+                            "grid_range": 650000.0,
+                            "om_range": 472500.0,
+                            "min_qt_range": 329000.0,
+                            "dropout_distance": 491250.0,
+                            "rotation_speed": 4.8499999,
+                            "commrange": 0.0,
+                            "x": -20262377.187265396,
+                            "y": 114913608.600053,
+                            "z": 0.0,
+                            "rotation": {
+                                "w": 1.0,
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            },
+                            "objects": [
+                                {
+                                    "type": "CommArray",
+                                    "name": "CommArray",
+                                    "designation": "",
+                                    "grid_range": 0.0,
+                                    "om_range": 0.0,
+                                    "min_qt_range": 0.0,
+                                    "dropout_distance": 0.0,
+                                    "rotation_speed": 0.0,
+                                    "commrange": 20250000.0,
+                                    "altitude": 491250.02956183604,
+                                    "objects": [],
+                                    "belts": []
+                                }
+                            ],
+                            "belts": []
+                        }
+                    ],
+                    "belts": []
+                },
+                {
+                    "type": "AsteroidBase",
+                    "name": "Wikelo Emporium Dasi",
+                    "designation": "ab_collector_gas_Stanton1",
+                    "grid_range": 138824.19,
+                    "om_range": 0.0,
+                    "min_qt_range": 0.0,
+                    "dropout_distance": 0.0,
+                    "rotation_speed": 0.0,
+                    "commrange": 0.0,
+                    "x": 14333387186.508734,
+                    "y": 2001161588.504044,
+                    "z": 0.0,
+                    "rotation": {
+                        "w": 1.0,
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "objects": [
+                        {
+                            "type": "LagrangePointStation",
+                            "name": "Wikelo Emporium Dasi Station",
+                            "designation": "ab_collector_gas_Stanton2_station",
+                            "grid_range": 20000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 24000.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 150000.0,
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0,
+                            "rotation": {
+                                "w": 1.0,
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            },
+                            "objects": [],
+                            "belts": []
+                        }
+                    ],
+                    "belts": []
+                },
+                {
+                    "type": "LagrangePoint",
+                    "name": "HUR L1",
+                    "designation": "Stanton1_L1",
+                    "grid_range": 41000000.0,
+                    "om_range": 0.0,
+                    "min_qt_range": 0.0,
+                    "dropout_distance": 0.0,
+                    "rotation_speed": 0.0,
+                    "commrange": 0.0,
+                    "x": 11565411328.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "rotation": {
+                        "w": 1.0,
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "objects": [
+                        {
+                            "type": "LagrangePointStation",
+                            "name": "HUR-L1 Green Glade Station",
+                            "designation": "RR_S1_L1",
+                            "grid_range": 20000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 24000.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 150000.0,
+                            "x": -3998772.246343,
+                            "y": -262923.20307,
+                            "z": -484614.27223299997,
+                            "rotation": {
+                                "w": 0.96340883,
+                                "x": 0.12298997,
+                                "y": -0.15411597,
+                                "z": -0.18156298
+                            },
+                            "objects": [],
+                            "belts": []
+                        },
+                        {
+                            "type": "LagrangePointChild",
+                            "name": "HUR L1-A",
+                            "designation": "s1_l1_01",
+                            "grid_range": 40000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 0.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 0.0,
+                            "x": -3961884.884559,
+                            "y": -294833.51011499995,
+                            "z": -513760.65022099996,
+                            "rotation": {
+                                "w": 0.70710677,
+                                "x": 0.0,
+                                "y": 0.70710677,
+                                "z": 0.0
+                            },
+                            "objects": [],
+                            "belts": []
+                        }
+                    ],
+                    "belts": []
+                },
+                {
+                    "type": "LagrangePoint",
+                    "name": "HUR L2",
+                    "designation": "Stanton1_L2",
+                    "grid_range": 41000000.0,
+                    "om_range": 0.0,
+                    "min_qt_range": 0.0,
+                    "dropout_distance": 0.0,
+                    "rotation_speed": 0.0,
+                    "commrange": 0.0,
+                    "x": 14135502848.0,
+                    "y": 0.0,
+                    "z": 0.0,
+                    "rotation": {
+                        "w": 1.0,
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "objects": [
+                        {
+                            "type": "LagrangePointStation",
+                            "name": "HUR-L2 Faithful Dream Station",
+                            "designation": "RR_S1_L2",
+                            "grid_range": 20000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 24000.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 150000.0,
+                            "x": 4132735.0448048175,
+                            "y": -1967277.639212439,
+                            "z": -527794.260616351,
+                            "rotation": {
+                                "w": 0.93648845,
+                                "x": -0.28099352,
+                                "y": -0.0064256117,
+                                "z": -0.2097397
+                            },
+                            "objects": [],
+                            "belts": []
+                        },
+                        {
+                            "type": "LagrangePointChild",
+                            "name": "HUR L2-A",
+                            "designation": "s1_l2_01",
+                            "grid_range": 40000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 0.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 0.0,
+                            "x": 4171081.0286786035,
+                            "y": -1942722.776237261,
+                            "z": -529013.0064416004,
+                            "rotation": {
+                                "w": 0.48481959,
+                                "x": 0.53498363,
+                                "y": -0.21726255,
+                                "z": 0.65691662
+                            },
+                            "objects": [],
+                            "belts": []
+                        }
+                    ],
+                    "belts": []
+                },
+                {
+                    "type": "LagrangePoint",
+                    "name": "HUR L3",
+                    "designation": "Stanton1_L3",
+                    "grid_range": 41000000.0,
+                    "om_range": 0.0,
+                    "min_qt_range": 0.0,
+                    "dropout_distance": 0.0,
+                    "rotation_speed": 0.0,
+                    "commrange": 0.0,
+                    "x": -12850457600.0,
+                    "y": -1123.422729,
+                    "z": 0.0,
+                    "rotation": {
+                        "w": 1.0,
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "objects": [
+                        {
+                            "type": "LagrangePointStation",
+                            "name": "HUR-L3 Thundering Express Station",
+                            "designation": "RR_S1_L3",
+                            "grid_range": 20000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 24000.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 150000.0,
+                            "x": 5714048.693015354,
+                            "y": -1553263.294460435,
+                            "z": 1335043.0217556537,
+                            "rotation": {
+                                "w": 0.97141945,
+                                "x": -0.20104741,
+                                "y": 0.092271961,
+                                "z": -0.086081497
+                            },
+                            "objects": [],
+                            "belts": []
+                        },
+                        {
+                            "type": "LagrangePointChild",
+                            "name": "HUR L3-A",
+                            "designation": "s1_l3_01",
+                            "grid_range": 40000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 0.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 0.0,
+                            "x": 5694332.29179346,
+                            "y": -1549889.054440626,
+                            "z": 1357964.2876939496,
+                            "rotation": {
+                                "w": 0.84280074,
+                                "x": -0.1891914,
+                                "y": -0.086219668,
+                                "z": -0.49644706
+                            },
+                            "objects": [],
+                            "belts": []
+                        }
+                    ],
+                    "belts": []
+                },
+                {
+                    "type": "LagrangePoint",
+                    "name": "HUR L4",
+                    "designation": "Stanton1_L4",
+                    "grid_range": 41000000.0,
+                    "om_range": 0.0,
+                    "min_qt_range": 0.0,
+                    "dropout_distance": 0.0,
+                    "rotation_speed": 0.0,
+                    "commrange": 0.0,
+                    "x": 6425228288.0,
+                    "y": 11128823808.0,
+                    "z": 0.0,
+                    "rotation": {
+                        "w": 1.0,
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "objects": [
+                        {
+                            "type": "LagrangePointStation",
+                            "name": "HUR-L4 Melodic Fields Station",
+                            "designation": "RR_S1_L4",
+                            "grid_range": 20000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 24000.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 150000.0,
+                            "x": 2399289.1163470503,
+                            "y": -4056975.7835634537,
+                            "z": 666283.6312175051,
+                            "rotation": {
+                                "w": -0.07355994,
+                                "x": 0.15171364,
+                                "y": -0.34075359,
+                                "z": -0.92491019
+                            },
+                            "objects": [],
+                            "belts": []
+                        },
+                        {
+                            "type": "LagrangePointChild",
+                            "name": "HUR L4-A",
+                            "designation": "s1_l4_01",
+                            "grid_range": 40000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 0.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 0.0,
+                            "x": 2409180.503268798,
+                            "y": -4043701.9610068174,
+                            "z": 654267.7210954765,
+                            "rotation": {
+                                "w": 0.61813802,
+                                "x": -0.31088239,
+                                "y": 0.72110975,
+                                "z": 0.035471309
+                            },
+                            "objects": [],
+                            "belts": []
+                        }
+                    ],
+                    "belts": []
+                },
+                {
+                    "type": "LagrangePoint",
+                    "name": "HUR L5",
+                    "designation": "Stanton1_L5",
+                    "grid_range": 41000000.0,
+                    "om_range": 0.0,
+                    "min_qt_range": 0.0,
+                    "dropout_distance": 0.0,
+                    "rotation_speed": 0.0,
+                    "commrange": 0.0,
+                    "x": 6425227776.0,
+                    "y": -11128823808.0,
+                    "z": 0.0,
+                    "rotation": {
+                        "w": 1.0,
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "objects": [
+                        {
+                            "type": "LagrangePointStation",
+                            "name": "HUR-L5 High Course Station",
+                            "designation": "RR_S1_L5",
+                            "grid_range": 20000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 24000.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 150000.0,
+                            "x": 495237.3557914144,
+                            "y": 461677.4955297341,
+                            "z": -842034.7959288693,
+                            "rotation": {
+                                "w": 0.93780178,
+                                "x": -0.21421683,
+                                "y": 0.15040547,
+                                "z": 0.22807284
+                            },
+                            "objects": [],
+                            "belts": []
+                        },
+                        {
+                            "type": "LagrangePointChild",
+                            "name": "HUR L5-A",
+                            "designation": "s1_l5_01",
+                            "grid_range": 40000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 0.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 0.0,
+                            "x": 483827.91321713326,
+                            "y": 476331.7562278918,
+                            "z": -801854.9186941568,
+                            "rotation": {
+                                "w": -0.31088239,
+                                "x": -0.61813802,
+                                "y": -0.035471309,
+                                "z": 0.72110975
+                            },
+                            "objects": [],
+                            "belts": []
+                        }
+                    ],
+                    "belts": []
+                },
+                {
+                    "type": "Planet",
+                    "name": "Crusader",
+                    "designation": "Stanton2",
+                    "grid_range": 14900000.0,
+                    "om_range": 10672000.0,
+                    "min_qt_range": 7540000.0,
+                    "dropout_distance": 7972500.0,
+                    "rotation_speed": 5.0999999,
+                    "commrange": 0.0,
+                    "x": -18962176000.0,
+                    "y": -2664959999.999996,
+                    "z": 0.0,
+                    "rotation": {
+                        "w": 1.0,
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "objects": [
+                        {
+                            "type": "Station",
+                            "name": "Seraphim Station",
+                            "designation": "",
+                            "grid_range": 0.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 0.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 0.0,
+                            "altitude": 6036932.85781595,
+                            "objects": [],
+                            "belts": []
+                        },
+                        {
+                            "type": "CommArray",
+                            "name": "CommArray",
+                            "designation": "",
+                            "grid_range": 0.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 0.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 20250000.0,
+                            "altitude": 8910954.185754417,
+                            "objects": [],
+                            "belts": []
+                        },
+                        {
+                            "type": "Moon",
+                            "name": "Cellin",
+                            "designation": "Stanton_2a",
+                            "grid_range": 520666.0,
+                            "om_range": 380560.0,
+                            "min_qt_range": 264000.0,
+                            "dropout_distance": 423349.6875,
+                            "rotation_speed": 4.4499998,
+                            "commrange": 0.0,
+                            "x": -25435119.233371735,
+                            "y": -44049660.70514393,
+                            "z": 0.0,
+                            "rotation": {
+                                "w": 1.0,
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            },
+                            "objects": [
+                                {
+                                    "type": "Station",
+                                    "name": "Security Post Kareah",
+                                    "designation": "",
+                                    "grid_range": 0.0,
+                                    "om_range": 0.0,
+                                    "min_qt_range": 0.0,
+                                    "dropout_distance": 0.0,
+                                    "rotation_speed": 0.0,
+                                    "commrange": 0.0,
+                                    "altitude": 420000.20607203775,
+                                    "objects": [],
+                                    "belts": []
+                                },
+                                {
+                                    "type": "CommArray",
+                                    "name": "CommArray",
+                                    "designation": "",
+                                    "grid_range": 0.0,
+                                    "om_range": 0.0,
+                                    "min_qt_range": 0.0,
+                                    "dropout_distance": 0.0,
+                                    "rotation_speed": 0.0,
+                                    "commrange": 20250000.0,
+                                    "altitude": 423349.61647780106,
+                                    "objects": [],
+                                    "belts": []
+                                }
+                            ],
+                            "belts": []
+                        },
+                        {
+                            "type": "Moon",
+                            "name": "Daymar",
+                            "designation": "Stanton_2b",
+                            "grid_range": 590000.0,
+                            "om_range": 430000.0,
+                            "min_qt_range": 299000.0,
+                            "dropout_distance": 459750.0,
+                            "rotation_speed": 2.48,
+                            "commrange": 0.0,
+                            "x": 31636460.465171814,
+                            "y": 54801234.50144005,
+                            "z": 0.0,
+                            "rotation": {
+                                "w": 1.0,
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            },
+                            "objects": [
+                                {
+                                    "type": "Station",
+                                    "name": "Covalex Shipping Hub",
+                                    "designation": "",
+                                    "grid_range": 0.0,
+                                    "om_range": 0.0,
+                                    "min_qt_range": 0.0,
+                                    "dropout_distance": 0.0,
+                                    "rotation_speed": 0.0,
+                                    "commrange": 0.0,
+                                    "altitude": 500000.78438979405,
+                                    "objects": [],
+                                    "belts": []
+                                },
+                                {
+                                    "type": "CommArray",
+                                    "name": "CommArray",
+                                    "designation": "",
+                                    "grid_range": 0.0,
+                                    "om_range": 0.0,
+                                    "min_qt_range": 0.0,
+                                    "dropout_distance": 0.0,
+                                    "rotation_speed": 0.0,
+                                    "commrange": 20250000.0,
+                                    "altitude": 459750.11455890763,
+                                    "objects": [],
+                                    "belts": []
+                                }
+                            ],
+                            "belts": []
+                        },
+                        {
+                            "type": "Moon",
+                            "name": "Yela",
+                            "designation": "Stanton_2c",
+                            "grid_range": 1016600.0,
+                            "om_range": 455480.0,
+                            "min_qt_range": 317000.0,
+                            "dropout_distance": 478650.0,
+                            "rotation_speed": 1.8200001,
+                            "commrange": 0.0,
+                            "x": -60740798.92737579,
+                            "y": 50963848.00152397,
+                            "z": 0.0,
+                            "rotation": {
+                                "w": 1.0,
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            },
+                            "objects": [
+                                {
+                                    "type": "Station",
+                                    "name": "GrimHex",
+                                    "designation": "",
+                                    "grid_range": 0.0,
+                                    "om_range": 0.0,
+                                    "min_qt_range": 0.0,
+                                    "dropout_distance": 0.0,
+                                    "rotation_speed": 0.0,
+                                    "commrange": 0.0,
+                                    "altitude": 0.0,
+                                    "objects": [],
+                                    "belts": []
+                                },
+                                {
+                                    "type": "CommArray",
+                                    "name": "CommArray",
+                                    "designation": "",
+                                    "grid_range": 0.0,
+                                    "om_range": 0.0,
+                                    "min_qt_range": 0.0,
+                                    "dropout_distance": 0.0,
+                                    "rotation_speed": 0.0,
+                                    "commrange": 20250000.0,
+                                    "altitude": 478650.2145821843,
+                                    "objects": [],
+                                    "belts": []
+                                }
+                            ],
+                            "belts": [
+                                {
+                                    "name": "Yela Belt",
+                                    "min": 490000.0,
+                                    "max": 770000.0
+                                }
+                            ]
+                        }
+                    ],
+                    "belts": []
+                },
+                {
+                    "type": "AsteroidBase",
+                    "name": "Wikelo Emporium Selo",
+                    "designation": "ab_collector_gas_Stanton2",
+                    "grid_range": 138824.19,
+                    "om_range": 0.0,
+                    "min_qt_range": 0.0,
+                    "dropout_distance": 0.0,
+                    "rotation_speed": 0.0,
+                    "commrange": 0.0,
+                    "x": -20156591640.6254,
+                    "y": -1263139664.280547,
+                    "z": 0.0,
+                    "rotation": {
+                        "w": 1.0,
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "objects": [
+                        {
+                            "type": "LagrangePointStation",
+                            "name": "Wikelo Emporium Selo Station",
+                            "designation": "ab_collector_gas_Stanton2_station",
+                            "grid_range": 20000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 24000.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 150000.0,
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0,
+                            "rotation": {
+                                "w": 1.0,
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            },
+                            "objects": [],
+                            "belts": []
+                        }
+                    ],
+                    "belts": []
+                },
+                {
+                    "type": "LagrangePoint",
+                    "name": "CRU L1",
+                    "designation": "Stanton2_L1",
+                    "grid_range": 41000000.0,
+                    "om_range": 0.0,
+                    "min_qt_range": 0.0,
+                    "dropout_distance": 0.0,
+                    "rotation_speed": 0.0,
+                    "commrange": 0.0,
+                    "x": -17065957375.999998,
+                    "y": -2398463999.999994,
+                    "z": 0.0,
+                    "rotation": {
+                        "w": 1.0,
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "objects": [
+                        {
+                            "type": "LagrangePointStation",
+                            "name": "CRU-L1 Ambitious Dream Station",
+                            "designation": "RR_S2_L1",
+                            "grid_range": 20000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 24000.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 150000.0,
+                            "x": -2796345.3556100046,
+                            "y": -1018272.9430794428,
+                            "z": -20044.224620763922,
+                            "rotation": {
+                                "w": 0.96034861,
+                                "x": -0.13926262,
+                                "y": -0.10139377,
+                                "z": -0.21921624
+                            },
+                            "objects": [],
+                            "belts": []
+                        },
+                        {
+                            "type": "LagrangePointChild",
+                            "name": "CRU L1-A",
+                            "designation": "s2_l1_01",
+                            "grid_range": 40000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 0.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 0.0,
+                            "x": -2819298.7729590023,
+                            "y": -1015241.8296910228,
+                            "z": -38365.0278609421,
+                            "rotation": {
+                                "w": 0.65691662,
+                                "x": 0.21726255,
+                                "y": 0.53498363,
+                                "z": -0.48481959
+                            },
+                            "objects": [],
+                            "belts": []
+                        }
+                    ],
+                    "belts": []
+                },
+                {
+                    "type": "LagrangePoint",
+                    "name": "CRU L2",
+                    "designation": "Stanton2_L2",
+                    "grid_range": 280000000.0,
+                    "om_range": 0.0,
+                    "min_qt_range": 0.0,
+                    "dropout_distance": 0.0,
+                    "rotation_speed": 0.0,
+                    "commrange": 0.0,
+                    "x": -20858376485.43327,
+                    "y": -2931474402.05844,
+                    "z": 0.0,
+                    "rotation": {
+                        "w": 1.0,
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "objects": [
+                        {
+                            "type": "LagrangePointChild",
+                            "name": "CRU L2-A",
+                            "designation": "s2_l2_01",
+                            "grid_range": 40000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 0.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 0.0,
+                            "x": -20078869.984149516,
+                            "y": 6243665.354612933,
+                            "z": 3862964.460899978,
+                            "rotation": {
+                                "w": 0.65691662,
+                                "x": 0.21726255,
+                                "y": 0.53498363,
+                                "z": -0.48481959
+                            },
+                            "objects": [],
+                            "belts": []
+                        },
+                        {
+                            "type": "LagrangePointChild",
+                            "name": "CRU L2-B",
+                            "designation": "s2_l2_02",
+                            "grid_range": 40000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 0.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 0.0,
+                            "x": 7788674.707931427,
+                            "y": -10574128.291047167,
+                            "z": 78069.34053523885,
+                            "rotation": {
+                                "w": 0.65691662,
+                                "x": 0.21726255,
+                                "y": 0.53498363,
+                                "z": -0.48481959
+                            },
+                            "objects": [],
+                            "belts": []
+                        },
+                        {
+                            "type": "LagrangePointChild",
+                            "name": "CRU L2-C",
+                            "designation": "s2_l2_03",
+                            "grid_range": 40000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 0.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 0.0,
+                            "x": -856502.7157176367,
+                            "y": 9097538.296005145,
+                            "z": -3429329.1724632564,
+                            "rotation": {
+                                "w": 0.65691662,
+                                "x": 0.21726255,
+                                "y": 0.53498363,
+                                "z": -0.48481959
+                            },
+                            "objects": [],
+                            "belts": []
+                        },
+                        {
+                            "type": "Other",
+                            "name": "CRU L2-HJCK",
+                            "designation": "spce_s2l2_hjck",
+                            "grid_range": 10000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 0.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 0.0,
+                            "x": -20072166.10771535,
+                            "y": 6199846.123801329,
+                            "z": 3877683.211551953,
+                            "rotation": {
+                                "w": 0.94699121,
+                                "x": -0.19474503,
+                                "y": 0.072812013,
+                                "z": 0.24490905
+                            },
+                            "objects": [],
+                            "belts": []
+                        }
+                    ],
+                    "belts": []
+                },
+                {
+                    "type": "LagrangePoint",
+                    "name": "CRU L3",
+                    "designation": "Stanton2_L3",
+                    "grid_range": 41000000.0,
+                    "om_range": 0.0,
+                    "min_qt_range": 0.0,
+                    "dropout_distance": 0.0,
+                    "rotation_speed": 0.0,
+                    "commrange": 0.0,
+                    "x": 18962164826.094032,
+                    "y": 2664965040.501728,
+                    "z": 0.0,
+                    "rotation": {
+                        "w": 1.0,
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "objects": [
+                        {
+                            "type": "LagrangePointChild",
+                            "name": "CRU L3-A",
+                            "designation": "s2_l3_01",
+                            "grid_range": 40000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 0.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 0.0,
+                            "x": -1935201.5879054058,
+                            "y": -1664494.546385881,
+                            "z": 264145.70638721046,
+                            "rotation": {
+                                "w": 0.61813802,
+                                "x": -0.31088239,
+                                "y": 0.72110975,
+                                "z": 0.035471309
+                            },
+                            "objects": [],
+                            "belts": []
+                        }
+                    ],
+                    "belts": []
+                },
+                {
+                    "type": "LagrangePoint",
+                    "name": "CRU L4",
+                    "designation": "Stanton2_L4",
+                    "grid_range": 41000000.0,
+                    "om_range": 0.0,
+                    "min_qt_range": 0.0,
+                    "dropout_distance": 0.0,
+                    "rotation_speed": 0.0,
+                    "commrange": 0.0,
+                    "x": -7173168639.999996,
+                    "y": -17754204160.000004,
+                    "z": 0.0,
+                    "rotation": {
+                        "w": 1.0,
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "objects": [
+                        {
+                            "type": "LagrangePointStation",
+                            "name": "CRU-L4 Shallow Fields Station",
+                            "designation": "RR_S2_L4",
+                            "grid_range": 20000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 24000.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 150000.0,
+                            "x": -599666.5421267773,
+                            "y": 4147667.5206329324,
+                            "z": -2174784.168140132,
+                            "rotation": {
+                                "w": 0.85258675,
+                                "x": -0.35633671,
+                                "y": -0.18156233,
+                                "z": -0.33638537
+                            },
+                            "objects": [],
+                            "belts": []
+                        },
+                        {
+                            "type": "LagrangePointChild",
+                            "name": "CRU L4-A",
+                            "designation": "s2_l4_01",
+                            "grid_range": 40000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 0.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 0.0,
+                            "x": -596843.1005570674,
+                            "y": 4151434.5057469765,
+                            "z": -2202125.3240436194,
+                            "rotation": {
+                                "w": -0.035471309,
+                                "x": 0.72110975,
+                                "y": 0.31088239,
+                                "z": 0.61813802
+                            },
+                            "objects": [],
+                            "belts": []
+                        }
+                    ],
+                    "belts": []
+                },
+                {
+                    "type": "LagrangePoint",
+                    "name": "CRU L5",
+                    "designation": "Stanton2_L5",
+                    "grid_range": 41000000.0,
+                    "om_range": 0.0,
+                    "min_qt_range": 0.0,
+                    "dropout_distance": 0.0,
+                    "rotation_speed": 0.0,
+                    "commrange": 0.0,
+                    "x": -11789008988.260246,
+                    "y": 15089246106.763807,
+                    "z": 0.0,
+                    "rotation": {
+                        "w": 1.0,
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "objects": [
+                        {
+                            "type": "LagrangePointStation",
+                            "name": "CRU-L5 Beautiful Glen Station",
+                            "designation": "RR_S2_L5",
+                            "grid_range": 20000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 24000.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 150000.0,
+                            "x": 3996779.092555417,
+                            "y": 1989648.872176709,
+                            "z": -2796440.785984267,
+                            "rotation": {
+                                "w": 1.0,
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            },
+                            "objects": [],
+                            "belts": []
+                        },
+                        {
+                            "type": "LagrangePointChild",
+                            "name": "CRU L5-A",
+                            "designation": "s2_l5_01",
+                            "grid_range": 40000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 0.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 0.0,
+                            "x": 3981102.7619028403,
+                            "y": 1966363.0984088683,
+                            "z": -2781536.521107684,
+                            "rotation": {
+                                "w": -0.11870062,
+                                "x": 0.80830872,
+                                "y": 0.5317055,
+                                "z": -0.22324072
+                            },
+                            "objects": [],
+                            "belts": []
+                        },
+                        {
+                            "type": "Other",
+                            "name": "CRU L5-HJCK",
+                            "designation": "spce_s2l5_hjck",
+                            "grid_range": 10000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 0.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 0.0,
+                            "x": 3889689.6249562586,
+                            "y": 1858638.7587801884,
+                            "z": -2756337.7734485306,
+                            "rotation": {
+                                "w": 0.94753313,
+                                "x": -0.07392101,
+                                "y": 0.24178903,
+                                "z": -0.19558802
+                            },
+                            "objects": [],
+                            "belts": []
+                        }
+                    ],
+                    "belts": []
+                },
+                {
+                    "type": "Planet",
+                    "name": "ArcCorp",
+                    "designation": "Stanton3",
+                    "grid_range": 1900000.0,
+                    "om_range": 1151000.0,
+                    "min_qt_range": 807130.0,
+                    "dropout_distance": 880000.0,
+                    "rotation_speed": 3.1099999,
+                    "commrange": 0.0,
+                    "x": 18587664739.85602,
+                    "y": -22151916920.3126,
+                    "z": 0.0,
+                    "rotation": {
+                        "w": 1.0,
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "objects": [
+                        {
+                            "type": "Station",
+                            "name": "Baijini Point",
+                            "designation": "",
+                            "grid_range": 0.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 0.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 0.0,
+                            "altitude": 836174.1116858837,
+                            "objects": [],
+                            "belts": []
+                        },
+                        {
+                            "type": "CommArray",
+                            "name": "CommArray",
+                            "designation": "",
+                            "grid_range": 0.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 0.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 20250000.0,
+                            "altitude": 990000.2664130576,
+                            "objects": [],
+                            "belts": []
+                        },
+                        {
+                            "type": "Moon",
+                            "name": "Lyria",
+                            "designation": "Stanton_3a",
+                            "grid_range": 446000.0,
+                            "om_range": 328215.0,
+                            "min_qt_range": 227000.0,
+                            "dropout_distance": 384150.0,
+                            "rotation_speed": 6.4299998,
+                            "commrange": 0.0,
+                            "x": 115942431.69996643,
+                            "y": 30266786.448417664,
+                            "z": 0.0,
+                            "rotation": {
+                                "w": 1.0,
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            },
+                            "objects": [
+                                {
+                                    "type": "CommArray",
+                                    "name": "CommArray",
+                                    "designation": "",
+                                    "grid_range": 0.0,
+                                    "om_range": 0.0,
+                                    "min_qt_range": 0.0,
+                                    "dropout_distance": 0.0,
+                                    "rotation_speed": 0.0,
+                                    "commrange": 20250000.0,
+                                    "altitude": 384149.9769531763,
+                                    "objects": [],
+                                    "belts": []
+                                }
+                            ],
+                            "belts": []
+                        },
+                        {
+                            "type": "Moon",
+                            "name": "Wala",
+                            "designation": "Stanton_3b",
+                            "grid_range": 566300.0,
+                            "om_range": 413140.0,
+                            "min_qt_range": 287000.0,
+                            "dropout_distance": 447307.5,
+                            "rotation_speed": 6.3200002,
+                            "commrange": 0.0,
+                            "x": -208015429.98859787,
+                            "y": 151450152.2743225,
+                            "z": 0.0,
+                            "rotation": {
+                                "w": 1.0,
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            },
+                            "objects": [
+                                {
+                                    "type": "CommArray",
+                                    "name": "CommArray",
+                                    "designation": "",
+                                    "grid_range": 0.0,
+                                    "om_range": 0.0,
+                                    "min_qt_range": 0.0,
+                                    "dropout_distance": 0.0,
+                                    "rotation_speed": 0.0,
+                                    "commrange": 20250000.0,
+                                    "altitude": 447307.671896395,
+                                    "objects": [],
+                                    "belts": []
+                                }
+                            ],
+                            "belts": []
+                        }
+                    ],
+                    "belts": []
+                },
+                {
+                    "type": "LagrangePoint",
+                    "name": "ARC L1",
+                    "designation": "Stanton3_L1",
+                    "grid_range": 40500000.0,
+                    "om_range": 0.0,
+                    "min_qt_range": 0.0,
+                    "dropout_distance": 0.0,
+                    "rotation_speed": 0.0,
+                    "commrange": 0.0,
+                    "x": 16729134637.384644,
+                    "y": -19937006924.891357,
+                    "z": 8076.625,
+                    "rotation": {
+                        "w": 1.0,
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "objects": [
+                        {
+                            "type": "LagrangePointStation",
+                            "name": "ARC-L1 Wide Forest Station",
+                            "designation": "RR_S3_L1",
+                            "grid_range": 20000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 24000.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 150000.0,
+                            "x": 85397.57287775597,
+                            "y": -5041260.843565855,
+                            "z": 2231688.5899551306,
+                            "rotation": {
+                                "w": 0.9919793,
+                                "x": -0.046624236,
+                                "y": -0.081035867,
+                                "z": 0.085067183
+                            },
+                            "objects": [],
+                            "belts": []
+                        },
+                        {
+                            "type": "LagrangePointChild",
+                            "name": "ARC L1-A",
+                            "designation": "s3_l1_01",
+                            "grid_range": 40000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 0.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 0.0,
+                            "x": 99665.32655371272,
+                            "y": -5027671.953874181,
+                            "z": 2230134.9236703995,
+                            "rotation": {
+                                "w": -0.22466272,
+                                "x": -0.12169098,
+                                "y": 0.80732942,
+                                "z": 0.53191835
+                            },
+                            "objects": [],
+                            "belts": []
+                        }
+                    ],
+                    "belts": []
+                },
+                {
+                    "type": "LagrangePoint",
+                    "name": "ARC L2",
+                    "designation": "Stanton3_L2",
+                    "grid_range": 41000000.0,
+                    "om_range": 0.0,
+                    "min_qt_range": 0.0,
+                    "dropout_distance": 0.0,
+                    "rotation_speed": 0.0,
+                    "commrange": 0.0,
+                    "x": 20446718503.390137,
+                    "y": -24367450990.706055,
+                    "z": 8076.625,
+                    "rotation": {
+                        "w": 1.0,
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "objects": [
+                        {
+                            "type": "LagrangePointStation",
+                            "name": "ARC-L2 Lively Pathway Station",
+                            "designation": "RR_S3_L2",
+                            "grid_range": 20000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 24000.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 150000.0,
+                            "x": 4287404.494091256,
+                            "y": -602529.9650647268,
+                            "z": -301922.0779822935,
+                            "rotation": {
+                                "w": 0.94966996,
+                                "x": -0.17943035,
+                                "y": 0.014863347,
+                                "z": 0.25634122
+                            },
+                            "objects": [],
+                            "belts": []
+                        },
+                        {
+                            "type": "LagrangePointChild",
+                            "name": "ARC L2-A",
+                            "designation": "s3_l2_01",
+                            "grid_range": 40000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 0.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 0.0,
+                            "x": 4269718.3612827435,
+                            "y": -588348.13134333,
+                            "z": -302839.0174822223,
+                            "rotation": {
+                                "w": 0.72110975,
+                                "x": 0.035471309,
+                                "y": -0.61813802,
+                                "z": 0.31088239
+                            },
+                            "objects": [],
+                            "belts": []
+                        },
+                        {
+                            "type": "Other",
+                            "name": "ARC L2-HJCK",
+                            "designation": "spce_s3l2_hjck",
+                            "grid_range": 10000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 0.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 0.0,
+                            "x": -19903155.401431277,
+                            "y": 22841567.123714413,
+                            "z": -9487018.38669099,
+                            "rotation": {
+                                "w": 0.57877886,
+                                "x": 0.20085634,
+                                "y": -0.11340569,
+                                "z": 0.78218341
+                            },
+                            "objects": [],
+                            "belts": []
+                        }
+                    ],
+                    "belts": []
+                },
+                {
+                    "type": "LagrangePoint",
+                    "name": "ARC L3",
+                    "designation": "Stanton3_L3",
+                    "grid_range": 41000000.0,
+                    "om_range": 0.0,
+                    "min_qt_range": 0.0,
+                    "dropout_distance": 0.0,
+                    "rotation_speed": 0.0,
+                    "commrange": 0.0,
+                    "x": -25043446883.50293,
+                    "y": 14458841787.628052,
+                    "z": 8076.625,
+                    "rotation": {
+                        "w": 1.0,
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "objects": [
+                        {
+                            "type": "LagrangePointStation",
+                            "name": "ARC-L3 Modern Express Station",
+                            "designation": "RR_S3_L3",
+                            "grid_range": 20000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 24000.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 150000.0,
+                            "x": -2078603.3245697669,
+                            "y": 4413445.009110269,
+                            "z": -1900839.4424739594,
+                            "rotation": {
+                                "w": 0.72110975,
+                                "x": 0.035471309,
+                                "y": -0.61813802,
+                                "z": 0.31088239
+                            },
+                            "objects": [],
+                            "belts": []
+                        },
+                        {
+                            "type": "LagrangePointChild",
+                            "name": "ARC L3-A",
+                            "designation": "s3_l3_01",
+                            "grid_range": 40000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 0.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 0.0,
+                            "x": -2078636.4685722394,
+                            "y": 4392024.195350703,
+                            "z": -1880211.6705020897,
+                            "rotation": {
+                                "w": -0.29007456,
+                                "x": 0.4120076,
+                                "y": 0.46217161,
+                                "z": -0.72972864
+                            },
+                            "objects": [],
+                            "belts": []
+                        }
+                    ],
+                    "belts": []
+                },
+                {
+                    "type": "LagrangePoint",
+                    "name": "ARC L4",
+                    "designation": "Stanton3_L4",
+                    "grid_range": 40100000.0,
+                    "om_range": 0.0,
+                    "min_qt_range": 0.0,
+                    "dropout_distance": 0.0,
+                    "rotation_speed": 0.0,
+                    "commrange": 0.0,
+                    "x": 28478354915.65576,
+                    "y": 5021502482.911743,
+                    "z": 8076.625,
+                    "rotation": {
+                        "w": 1.0,
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "objects": [
+                        {
+                            "type": "LagrangePointStation",
+                            "name": "ARC-L4 Faint Glen Station",
+                            "designation": "RR_S3_L4",
+                            "grid_range": 20000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 24000.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 150000.0,
+                            "x": -2214759.4357312815,
+                            "y": -2598304.268217914,
+                            "z": 951654.8806521406,
+                            "rotation": {
+                                "w": 0.94699121,
+                                "x": -0.19474503,
+                                "y": 0.072812013,
+                                "z": 0.24490905
+                            },
+                            "objects": [],
+                            "belts": []
+                        },
+                        {
+                            "type": "LagrangePointChild",
+                            "name": "ARC L4-A",
+                            "designation": "s3_l4_01",
+                            "grid_range": 40000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 0.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 0.0,
+                            "x": -2206723.540479788,
+                            "y": -2595148.481414221,
+                            "z": 923382.6020587264,
+                            "rotation": {
+                                "w": -0.53498363,
+                                "x": 0.48481959,
+                                "y": 0.65691662,
+                                "z": 0.21726255
+                            },
+                            "objects": [],
+                            "belts": []
+                        },
+                        {
+                            "type": "Other",
+                            "name": "ARC L4-HJCK",
+                            "designation": "spce_s3l4_hjck",
+                            "grid_range": 10000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 0.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 0.0,
+                            "x": 4499119.468040187,
+                            "y": -53925.87539328309,
+                            "z": -64406.248470589286,
+                            "rotation": {
+                                "w": 0.94699121,
+                                "x": -0.19474503,
+                                "y": 0.072812013,
+                                "z": 0.24490905
+                            },
+                            "objects": [],
+                            "belts": []
+                        }
+                    ],
+                    "belts": []
+                },
+                {
+                    "type": "LagrangePoint",
+                    "name": "ARC L5",
+                    "designation": "Stanton3_L5",
+                    "grid_range": 40400000.0,
+                    "om_range": 0.0,
+                    "min_qt_range": 0.0,
+                    "dropout_distance": 0.0,
+                    "rotation_speed": 0.0,
+                    "commrange": 0.0,
+                    "x": -9890422516.169678,
+                    "y": -27173732225.140015,
+                    "z": 8076.625,
+                    "rotation": {
+                        "w": 1.0,
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "objects": [
+                        {
+                            "type": "LagrangePointStation",
+                            "name": "ARC-L5 Yellow Core Station",
+                            "designation": "RR_S3_L5",
+                            "grid_range": 20000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 24000.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 150000.0,
+                            "x": -5329061.226108922,
+                            "y": -1424447.343245626,
+                            "z": 874388.7914157388,
+                            "rotation": {
+                                "w": 0.94699121,
+                                "x": -0.19474503,
+                                "y": 0.072812013,
+                                "z": 0.24490905
+                            },
+                            "objects": [],
+                            "belts": []
+                        },
+                        {
+                            "type": "LagrangePointChild",
+                            "name": "ARC L5-A",
+                            "designation": "s3_l5_01",
+                            "grid_range": 40000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 0.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 0.0,
+                            "x": -5315670.54880319,
+                            "y": -1415291.5373673034,
+                            "z": 896047.3417050694,
+                            "rotation": {
+                                "w": 0.61813802,
+                                "x": -0.31088239,
+                                "y": 0.72110975,
+                                "z": 0.035471309
+                            },
+                            "objects": [],
+                            "belts": []
+                        },
+                        {
+                            "type": "Other",
+                            "name": "ARC L5-HJCK",
+                            "designation": "spce_s3l5_hjck",
+                            "grid_range": 10000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 0.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 0.0,
+                            "x": 1838416.6956169482,
+                            "y": -2645666.4201852167,
+                            "z": 1663875.3141468023,
+                            "rotation": {
+                                "w": 0.94699121,
+                                "x": -0.19474503,
+                                "y": 0.072812013,
+                                "z": 0.24490905
+                            },
+                            "objects": [],
+                            "belts": []
+                        }
+                    ],
+                    "belts": []
+                },
+                {
+                    "type": "Planet",
+                    "name": "Microtech",
+                    "designation": "Stanton4",
+                    "grid_range": 2300000.0,
+                    "om_range": 1439000.0,
+                    "min_qt_range": 1010875.0,
+                    "dropout_distance": 1050000.0,
+                    "rotation_speed": 4.1199999,
+                    "commrange": 0.0,
+                    "x": 22462085252.484795,
+                    "y": 37185744964.8301,
+                    "z": 0.0,
+                    "rotation": {
+                        "w": 0.0,
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 1.0
+                    },
+                    "objects": [
+                        {
+                            "type": "Station",
+                            "name": "Port Tressler",
+                            "designation": "",
+                            "grid_range": 0.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 0.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 0.0,
+                            "altitude": 783074.2313890555,
+                            "objects": [],
+                            "belts": []
+                        },
+                        {
+                            "type": "CommArray",
+                            "name": "CommArray",
+                            "designation": "",
+                            "grid_range": 0.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 0.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 20250000.0,
+                            "altitude": 2412170.2693296554,
+                            "objects": [],
+                            "belts": []
+                        },
+                        {
+                            "type": "Moon",
+                            "name": "Calliope",
+                            "designation": "Stanton_4a",
+                            "grid_range": 480666.0,
+                            "om_range": 352280.0,
+                            "min_qt_range": 244000.0,
+                            "dropout_distance": 402350.0,
+                            "rotation_speed": 4.5900002,
+                            "commrange": 0.0,
+                            "x": 63715944.2375679,
+                            "y": 16904285.81880951,
+                            "z": 0.0,
+                            "rotation": {
+                                "w": 0.0,
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": -1.0
+                            },
+                            "objects": [
+                                {
+                                    "type": "CommArray",
+                                    "name": "CommArray",
+                                    "designation": "",
+                                    "grid_range": 0.0,
+                                    "om_range": 0.0,
+                                    "min_qt_range": 0.0,
+                                    "dropout_distance": 0.0,
+                                    "rotation_speed": 0.0,
+                                    "commrange": 20250000.0,
+                                    "altitude": 540078.2414153789,
+                                    "objects": [],
+                                    "belts": []
+                                }
+                            ],
+                            "belts": []
+                        },
+                        {
+                            "type": "Moon",
+                            "name": "Clio",
+                            "designation": "Stanton_4b",
+                            "grid_range": 674334.0,
+                            "om_range": 489850.0,
+                            "min_qt_range": 341170.0,
+                            "dropout_distance": 504025.0,
+                            "rotation_speed": 3.25,
+                            "commrange": 0.0,
+                            "x": -14642968.025260925,
+                            "y": 94724890.45458984,
+                            "z": 0.0,
+                            "rotation": {
+                                "w": 0.0,
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": -1.0
+                            },
+                            "objects": [
+                                {
+                                    "type": "CommArray",
+                                    "name": "CommArray",
+                                    "designation": "",
+                                    "grid_range": 0.0,
+                                    "om_range": 0.0,
+                                    "min_qt_range": 0.0,
+                                    "dropout_distance": 0.0,
+                                    "rotation_speed": 0.0,
+                                    "commrange": 20250000.0,
+                                    "altitude": 567800.8017107886,
+                                    "objects": [],
+                                    "belts": []
+                                }
+                            ],
+                            "belts": []
+                        },
+                        {
+                            "type": "Moon",
+                            "name": "Euterpe",
+                            "designation": "Stanton_4c",
+                            "grid_range": 425666.0,
+                            "om_range": 314000.0,
+                            "min_qt_range": 217000.0,
+                            "dropout_distance": 373475.0,
+                            "rotation_speed": 4.2800002,
+                            "commrange": 0.0,
+                            "x": -26024483.21628189,
+                            "y": 104621400.15092468,
+                            "z": 0.0,
+                            "rotation": {
+                                "w": 0.0,
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": -1.0
+                            },
+                            "objects": [
+                                {
+                                    "type": "CommArray",
+                                    "name": "CommArray",
+                                    "designation": "",
+                                    "grid_range": 0.0,
+                                    "om_range": 0.0,
+                                    "min_qt_range": 0.0,
+                                    "dropout_distance": 0.0,
+                                    "rotation_speed": 0.0,
+                                    "commrange": 20250000.0,
+                                    "altitude": 479286.4864413211,
+                                    "objects": [],
+                                    "belts": []
+                                }
+                            ],
+                            "belts": []
+                        }
+                    ],
+                    "belts": []
+                },
+                {
+                    "type": "AsteroidBase",
+                    "name": "Wikelo Emporium Kinga",
+                    "designation": "ab_collector_gas_Stanton4",
+                    "grid_range": 138824.19,
+                    "om_range": 0.0,
+                    "min_qt_range": 0.0,
+                    "dropout_distance": 0.0,
+                    "rotation_speed": 0.0,
+                    "commrange": 0.0,
+                    "x": 23761435428.584312,
+                    "y": 39225377300.44484,
+                    "z": 0.0,
+                    "rotation": {
+                        "w": 0.0,
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 1.0
+                    },
+                    "objects": [
+                        {
+                            "type": "LagrangePointStation",
+                            "name": "Wikelo Emporium Kinga Station",
+                            "designation": "ab_collector_gas_Stanton2_station",
+                            "grid_range": 20000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 24000.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 150000.0,
+                            "x": 0.0,
+                            "y": 0.0,
+                            "z": 0.0,
+                            "rotation": {
+                                "w": 1.0,
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            },
+                            "objects": [],
+                            "belts": []
+                        }
+                    ],
+                    "belts": []
+                },
+                {
+                    "type": "LagrangePoint",
+                    "name": "MIC L1",
+                    "designation": "Stanton4_L1",
+                    "grid_range": 133000000.0,
+                    "om_range": 0.0,
+                    "min_qt_range": 0.0,
+                    "dropout_distance": 0.0,
+                    "rotation_speed": 0.0,
+                    "commrange": 0.0,
+                    "x": 20215824238.186035,
+                    "y": 33467065007.614746,
+                    "z": 0.0,
+                    "rotation": {
+                        "w": 1.0,
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "objects": [
+                        {
+                            "type": "LagrangePointStation",
+                            "name": "MIC-L1 Shallow Frontier Station",
+                            "designation": "RR_S4_L1",
+                            "grid_range": 20000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 24000.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 150000.0,
+                            "x": 3030.702058255207,
+                            "y": 4510.223179478315,
+                            "z": -943.2008828393882,
+                            "rotation": {
+                                "w": 1.0,
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            },
+                            "objects": [],
+                            "belts": []
+                        },
+                        {
+                            "type": "LagrangePointChild",
+                            "name": "MIC L1-A",
+                            "designation": "s4_l1_01",
+                            "grid_range": 40000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 0.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 0.0,
+                            "x": -8243.627695265575,
+                            "y": 46126.26945471752,
+                            "z": -26535.266142917564,
+                            "rotation": {
+                                "w": -0.1959435,
+                                "x": -0.80961734,
+                                "y": 0.55284852,
+                                "z": 0.022009408
+                            },
+                            "objects": [],
+                            "belts": []
+                        },
+                        {
+                            "type": "LagrangePointChild",
+                            "name": "MIC L1-B",
+                            "designation": "s4_l1_02",
+                            "grid_range": 40000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 0.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 0.0,
+                            "x": 28502997.99193126,
+                            "y": 1172219.0401127501,
+                            "z": -16963959.242771048,
+                            "rotation": {
+                                "w": 0.80961734,
+                                "x": -0.1959435,
+                                "y": 0.022009408,
+                                "z": -0.55284852
+                            },
+                            "objects": [],
+                            "belts": []
+                        },
+                        {
+                            "type": "Other",
+                            "name": "MIC L1-HJCK",
+                            "designation": "spce_s4l1_hjck",
+                            "grid_range": 10000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 0.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 0.0,
+                            "x": 28515281.07877678,
+                            "y": 1174241.625822788,
+                            "z": -16962563.624292515,
+                            "rotation": {
+                                "w": 0.96340883,
+                                "x": -0.12298997,
+                                "y": 0.15411597,
+                                "z": 0.18156298
+                            },
+                            "objects": [],
+                            "belts": []
+                        }
+                    ],
+                    "belts": []
+                },
+                {
+                    "type": "LagrangePoint",
+                    "name": "MIC L2",
+                    "designation": "Stanton4_L2",
+                    "grid_range": 274000000.0,
+                    "om_range": 0.0,
+                    "min_qt_range": 0.0,
+                    "dropout_distance": 0.0,
+                    "rotation_speed": 0.0,
+                    "commrange": 0.0,
+                    "x": 24708827153.475586,
+                    "y": 40905202459.222755,
+                    "z": 0.0,
+                    "rotation": {
+                        "w": 1.0,
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "objects": [
+                        {
+                            "type": "LagrangePointStation",
+                            "name": "MIC-L2 Long Forest Station",
+                            "designation": "RR_S4_L2",
+                            "grid_range": 20000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 24000.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 150000.0,
+                            "x": 4947744.265215835,
+                            "y": 7731985.254293358,
+                            "z": -10634826.649167988,
+                            "rotation": {
+                                "w": 0.95591187,
+                                "x": -0.0092693223,
+                                "y": 0.18928225,
+                                "z": 0.22431846
+                            },
+                            "objects": [],
+                            "belts": []
+                        },
+                        {
+                            "type": "LagrangePointChild",
+                            "name": "MIC L2-A",
+                            "designation": "s4_l2_01",
+                            "grid_range": 40000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 0.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 0.0,
+                            "x": 4977773.108123917,
+                            "y": 7736072.151513291,
+                            "z": -10637336.79410591,
+                            "rotation": {
+                                "w": 0.94699121,
+                                "x": -0.19474503,
+                                "y": 0.072812013,
+                                "z": 0.24490905
+                            },
+                            "objects": [],
+                            "belts": []
+                        },
+                        {
+                            "type": "LagrangePointChild",
+                            "name": "MIC L2-B",
+                            "designation": "s4_l2_02",
+                            "grid_range": 40000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 0.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 0.0,
+                            "x": 13124111.967608547,
+                            "y": -28823455.567484476,
+                            "z": 10754390.869061291,
+                            "rotation": {
+                                "w": -0.24490905,
+                                "x": 0.072812013,
+                                "y": 0.19474503,
+                                "z": 0.94699121
+                            },
+                            "objects": [],
+                            "belts": []
+                        },
+                        {
+                            "type": "LagrangePointChild",
+                            "name": "MIC L2-C",
+                            "designation": "s4_l2_03",
+                            "grid_range": 40000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 0.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 0.0,
+                            "x": 2658821.849492736,
+                            "y": -11186887.906464126,
+                            "z": 7685985.64180099,
+                            "rotation": {
+                                "w": -0.24490905,
+                                "x": 0.072812013,
+                                "y": 0.19474503,
+                                "z": 0.94699121
+                            },
+                            "objects": [],
+                            "belts": []
+                        },
+                        {
+                            "type": "Other",
+                            "name": "MIC L2-HJCK",
+                            "designation": "spce_s4l2_hjck",
+                            "grid_range": 10000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 0.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 0.0,
+                            "x": 13123233.591847654,
+                            "y": -28823932.35949438,
+                            "z": 10756477.097211478,
+                            "rotation": {
+                                "w": 0.94699121,
+                                "x": -0.19474503,
+                                "y": 0.072812013,
+                                "z": 0.24490905
+                            },
+                            "objects": [],
+                            "belts": []
+                        }
+                    ],
+                    "belts": []
+                },
+                {
+                    "type": "LagrangePoint",
+                    "name": "MIC L3",
+                    "designation": "Stanton4_L3",
+                    "grid_range": 167000000.0,
+                    "om_range": 0.0,
+                    "min_qt_range": 0.0,
+                    "dropout_distance": 0.0,
+                    "rotation_speed": 0.0,
+                    "commrange": 0.0,
+                    "x": -22457170265.786125,
+                    "y": -37187612395.6401,
+                    "z": 0.0,
+                    "rotation": {
+                        "w": 1.0,
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "objects": [
+                        {
+                            "type": "LagrangePointStation",
+                            "name": "MIC-L3 Endless Odyssey Station",
+                            "designation": "RR_S4_L3",
+                            "grid_range": 20000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 24000.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 150000.0,
+                            "x": 4952013.877927659,
+                            "y": 7689372.639905931,
+                            "z": -10590410.52450916,
+                            "rotation": {
+                                "w": 0.89798802,
+                                "x": -0.32782805,
+                                "y": 0.10354594,
+                                "z": 0.27463523
+                            },
+                            "objects": [],
+                            "belts": []
+                        },
+                        {
+                            "type": "LagrangePointChild",
+                            "name": "MIC L3-A",
+                            "designation": "s4_l3_01",
+                            "grid_range": 40000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 0.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 0.0,
+                            "x": 4977773.108123917,
+                            "y": 7736072.151513291,
+                            "z": -10637336.79410591,
+                            "rotation": {
+                                "w": 0.94699121,
+                                "x": -0.19474503,
+                                "y": 0.072812013,
+                                "z": 0.24490905
+                            },
+                            "objects": [],
+                            "belts": []
+                        }
+                    ],
+                    "belts": []
+                },
+                {
+                    "type": "LagrangePoint",
+                    "name": "MIC L4",
+                    "designation": "Stanton4_L4",
+                    "grid_range": 277000000.0,
+                    "om_range": 0.0,
+                    "min_qt_range": 0.0,
+                    "dropout_distance": 0.0,
+                    "rotation_speed": 0.0,
+                    "commrange": 0.0,
+                    "x": -20971933230.165882,
+                    "y": 38045504032.01936,
+                    "z": 0.0,
+                    "rotation": {
+                        "w": 1.0,
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "objects": [
+                        {
+                            "type": "LagrangePointStation",
+                            "name": "MIC-L4 Red Crossroads Station",
+                            "designation": "RR_S4_L4",
+                            "grid_range": 20000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 24000.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 150000.0,
+                            "x": 3212566.88811629,
+                            "y": 10554325.437398415,
+                            "z": -11799274.780178793,
+                            "rotation": {
+                                "w": 0.80019015,
+                                "x": 0.15492214,
+                                "y": -0.55613941,
+                                "z": 0.16249254
+                            },
+                            "objects": [],
+                            "belts": []
+                        },
+                        {
+                            "type": "LagrangePointChild",
+                            "name": "MIC L4-A",
+                            "designation": "s4_l4_01",
+                            "grid_range": 40000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 0.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 0.0,
+                            "x": 3232536.476766051,
+                            "y": 10587476.200108673,
+                            "z": -11818687.713120457,
+                            "rotation": {
+                                "w": 0.94699121,
+                                "x": -0.19474503,
+                                "y": 0.072812013,
+                                "z": 0.24490905
+                            },
+                            "objects": [],
+                            "belts": []
+                        }
+                    ],
+                    "belts": []
+                },
+                {
+                    "type": "LagrangePoint",
+                    "name": "MIC L5",
+                    "designation": "Stanton4_L5",
+                    "grid_range": 281000000.0,
+                    "om_range": 0.0,
+                    "min_qt_range": 0.0,
+                    "dropout_distance": 0.0,
+                    "rotation_speed": 0.0,
+                    "commrange": 0.0,
+                    "x": 43435204288.21857,
+                    "y": -851406955.90843,
+                    "z": 0.0,
+                    "rotation": {
+                        "w": 1.0,
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "objects": [
+                        {
+                            "type": "LagrangePointStation",
+                            "name": "MIC-L5 Modern Icarus Station",
+                            "designation": "RR_S4_L5",
+                            "grid_range": 20000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 24000.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 150000.0,
+                            "x": 13355568.453096645,
+                            "y": -6301081.170024353,
+                            "z": -7824371.169867326,
+                            "rotation": {
+                                "w": 0.94107217,
+                                "x": 0.1850038,
+                                "y": 0.12461825,
+                                "z": 0.25421855
+                            },
+                            "objects": [],
+                            "belts": []
+                        },
+                        {
+                            "type": "LagrangePointChild",
+                            "name": "MIC L5-A",
+                            "designation": "s4_l5_01",
+                            "grid_range": 40000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 0.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 0.0,
+                            "x": 13351201.607371986,
+                            "y": -6327544.2245083,
+                            "z": -7833489.833232391,
+                            "rotation": {
+                                "w": 0.96680331,
+                                "x": -0.0030210009,
+                                "y": 0.022783007,
+                                "z": 0.25448608
+                            },
+                            "objects": [],
+                            "belts": []
+                        },
+                        {
+                            "type": "LagrangePointChild",
+                            "name": "MIC L5-B",
+                            "designation": "s4_l5_02",
+                            "grid_range": 40000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 0.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 0.0,
+                            "x": -10600998.013234906,
+                            "y": -26084968.093845394,
+                            "z": 2825192.1986790346,
+                            "rotation": {
+                                "w": -0.25448608,
+                                "x": 0.022783007,
+                                "y": 0.0030210009,
+                                "z": 0.96680331
+                            },
+                            "objects": [],
+                            "belts": []
+                        },
+                        {
+                            "type": "Other",
+                            "name": "MIC L5-HJCK",
+                            "designation": "spce_s4l5_hjck",
+                            "grid_range": 10000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 0.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 0.0,
+                            "x": -10579515.90841616,
+                            "y": -26037712.447593406,
+                            "z": 2830883.276324341,
+                            "rotation": {
+                                "w": 0.96680331,
+                                "x": -0.0030210009,
+                                "y": 0.022783007,
+                                "z": 0.25448608
+                            },
+                            "objects": [],
+                            "belts": []
+                        }
+                    ],
+                    "belts": []
+                },
+                {
+                    "type": "LagrangePointJump",
+                    "name": "Stanton-Pyro JumpPoint",
+                    "designation": "jumppoint_stanton_pyro",
+                    "grid_range": 40000000.0,
+                    "om_range": 0.0,
+                    "min_qt_range": 0.0,
+                    "dropout_distance": 0.0,
+                    "rotation_speed": 0.0,
+                    "commrange": 0.0,
+                    "x": 3310491639.802189,
+                    "y": -27979408221.456882,
+                    "z": -2676285679.0,
+                    "rotation": {
+                        "w": -0.12613995,
+                        "x": 0.40944785,
+                        "y": -0.58401775,
+                        "z": 0.68946677
+                    },
+                    "objects": [
+                        {
+                            "type": "LagrangePointStation",
+                            "name": "Pyro Gateway",
+                            "designation": "RR_SP_JP",
+                            "grid_range": 20000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 24000.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 150000.0,
+                            "x": 4040.215912,
+                            "y": 13173.586097,
+                            "z": -36662.089647999994,
+                            "rotation": {
+                                "w": 0.67981994,
+                                "x": 0.27559596,
+                                "y": 0.11548799,
+                                "z": -0.66974193
+                            },
+                            "objects": [],
+                            "belts": []
+                        },
+                        {
+                            "type": "Other",
+                            "name": "Xenothreat Wrecksite",
+                            "designation": "procyon_wrecksite",
+                            "grid_range": 10000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 0.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 0.0,
+                            "x": -375180.299154,
+                            "y": -490429.064782,
+                            "z": -79974.010203,
+                            "rotation": {
+                                "w": 0.32816496,
+                                "x": 0.79652089,
+                                "y": -0.27474296,
+                                "z": -0.42705795
+                            },
+                            "objects": [],
+                            "belts": []
+                        }
+                    ],
+                    "belts": []
+                },
+                {
+                    "type": "LagrangePointJump",
+                    "name": "Stanton-Terra JumpPoint",
+                    "designation": "jumppoint_stanton_terra",
+                    "grid_range": 40000000.0,
+                    "om_range": 0.0,
+                    "min_qt_range": 0.0,
+                    "dropout_distance": 0.0,
+                    "rotation_speed": 0.0,
+                    "commrange": 0.0,
+                    "x": 51118221616.90332,
+                    "y": -5269981303.113817,
+                    "z": -4339551619.0,
+                    "rotation": {
+                        "w": 0.84275234,
+                        "x": -0.15849306,
+                        "y": -0.091506034,
+                        "z": -0.5062362
+                    },
+                    "objects": [
+                        {
+                            "type": "LagrangePointStation",
+                            "name": "Terra Gateway",
+                            "designation": "RR_ST_JP",
+                            "grid_range": 20000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 24000.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 150000.0,
+                            "x": -11572.140456000001,
+                            "y": -48170.546728,
+                            "z": -739.8885220000011,
+                            "rotation": {
+                                "w": 0.89729327,
+                                "x": -0.18098906,
+                                "y": 0.08807303,
+                                "z": -0.39287513
+                            },
+                            "objects": [],
+                            "belts": []
+                        }
+                    ],
+                    "belts": []
+                },
+                {
+                    "type": "LagrangePointJump",
+                    "name": "Stanton-Magnus JumpPoint",
+                    "designation": "jumppoint_stanton_magnus",
+                    "grid_range": 40000000.0,
+                    "om_range": 0.0,
+                    "min_qt_range": 0.0,
+                    "dropout_distance": 0.0,
+                    "rotation_speed": 0.0,
+                    "commrange": 0.0,
+                    "x": -62284282868.18451,
+                    "y": 23467602586.872375,
+                    "z": 20198396608.0,
+                    "rotation": {
+                        "w": 0.30793616,
+                        "x": -0.14839508,
+                        "y": -0.027259013,
+                        "z": 0.93936741
+                    },
+                    "objects": [
+                        {
+                            "type": "LagrangePointStation",
+                            "name": "Magnus Gateway",
+                            "designation": "RR_SM_JP",
+                            "grid_range": 20000.0,
+                            "om_range": 0.0,
+                            "min_qt_range": 0.0,
+                            "dropout_distance": 24000.0,
+                            "rotation_speed": 0.0,
+                            "commrange": 150000.0,
+                            "x": -41005.469107,
+                            "y": -26861.149837999998,
+                            "z": -17238.718353999997,
+                            "rotation": {
+                                "w": 0.8140251,
+                                "x": 0.45189807,
+                                "y": -0.0079660006,
+                                "z": 0.36481205
+                            },
+                            "objects": [],
+                            "belts": []
+                        }
+                    ],
+                    "belts": []
+                }
+            ],
+            "belts": [
+                {
+                    "name": "Aaron Halo",
+                    "min": 19815000000.0,
+                    "max": 20500000000.0
+                }
+            ]
+        }
+    ]
+}
