@@ -1,6 +1,6 @@
 from src.models.vector import Vector3
 from pydantic import BaseModel, Field
-from typing import Optional, Literal
+from typing import Optional, Literal, List
 
 class Planet(BaseModel):
     model_config = {"extra": "ignore"}
@@ -40,3 +40,26 @@ class Planet(BaseModel):
     @property
     def vector(self) -> Vector3:
         return Vector3(x=self.x, y=self.y, z=self.z)
+
+    @property
+    def oms(self) -> List[Vector3]:
+        return [Vector3(1,1,1)]
+    
+    @property
+    def om1(self) -> Vector3:
+        return Vector3(0, 0, self.om_range)
+    @property
+    def om2(self) -> Vector3:
+        return Vector3(0, 0, -self.om_range)
+    @property
+    def om3(self) -> Vector3:
+        return Vector3(0, self.om_range, 0)
+    @property
+    def om4(self) -> Vector3:
+        return Vector3(0, -self.om_range, 0)
+    @property
+    def om5(self) -> Vector3:
+        return Vector3(self.om_range, 0, 0)
+    @property
+    def om6(self) -> Vector3:
+        return Vector3(-self.om_range, 0, 0)
