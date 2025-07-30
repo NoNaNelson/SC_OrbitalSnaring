@@ -43,7 +43,7 @@ class Planet(BaseModel):
 
     @property
     def oms(self) -> List[Vector3]:
-        return [Vector3(1,1,1)]
+        return [self.OM1, self.OM2, self.OM3, self.OM4, self.OM5, self.OM6]
     
     @property
     def OM1(self) -> Vector3:
