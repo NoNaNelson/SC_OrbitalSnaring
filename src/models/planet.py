@@ -46,20 +46,20 @@ class Planet(BaseModel):
         return [Vector3(1,1,1)]
     
     @property
-    def om1(self) -> Vector3:
+    def OM1(self) -> Vector3:
         return Vector3(0, 0, self.om_range)
     @property
-    def om2(self) -> Vector3:
+    def OM2(self) -> Vector3:
         return Vector3(0, 0, -self.om_range)
     @property
-    def om3(self) -> Vector3:
+    def OM3(self) -> Vector3:
         return Vector3(0, self.om_range, 0)
     @property
-    def om4(self) -> Vector3:
+    def OM4(self) -> Vector3:
         return Vector3(0, -self.om_range, 0)
     @property
-    def om5(self) -> Vector3:
+    def OM5(self) -> Vector3:
         return Vector3(self.om_range, 0, 0)
     @property
-    def om6(self) -> Vector3:
+    def OM6(self) -> Vector3:
         return Vector3(-self.om_range, 0, 0)
