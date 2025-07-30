@@ -24,5 +24,14 @@ def main():
         with open(os.path.join("src/data/", file.replace("raw_", '')), "w") as f:
             json.dump(l, f, indent=4)
 
+def load_data():
+    with open("src/data/stanton.json", "r") as f:
+        data = json.load(f)
+    STANTON = System(name="Stanton", planets=data)
+    with open("src/data/pyro.json", "r") as f:
+        data = json.load(f)
+    PYRO = System(name="Pyro", planets=data)
+    return STANTON, PYRO
+
 if __name__ == "__main__":
     main()
