@@ -31,7 +31,7 @@ def load_data():
     with open("src/data/pyro.json", "r") as f:
         data = json.load(f)
     PYRO = System(name="Pyro", planets=data)
-    return STANTON, PYRO
+    return [STANTON, PYRO]
 
 if __name__ == "__main__":
     main()

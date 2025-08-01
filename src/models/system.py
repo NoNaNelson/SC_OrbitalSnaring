@@ -1,6 +1,5 @@
 import json
-from typing import List, Dict, Any, Optional
-from enum import Enum
+from typing import List,Optional
 from pydantic import BaseModel, Field
 
 from src.models.planet import Planet
@@ -25,6 +24,19 @@ class System(BaseModel):
             raise KeyError(f"Planet '{name}' not found in system '{self.name}'.")
 
         return _item
+    
+    def __iter__(self):
+         return super().__iter__()
+    def __len__(self):
+        return len(self.planets)
+    
+    def __contains__(self, name: str) -> bool:
+        """Checks if a planet exists in the system."""
+        try:
+            return self[name] is not None
+        except KeyError:
+            return False
+    
 
 
 if  __name__ == "__main__":
